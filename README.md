@@ -56,9 +56,6 @@ Thanks for stopping by my Github. If you’d like to connect, please reach out v
 
 ## Github Stats  
 
-# 📊 GitHub Stats:
-
-![Freya's GitHub stats](https://github-readme-stats.vercel.app/api?username=freyapotempa&show_icons=true&theme=transparent)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=freyapotempa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=freyapotempa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freyapotempa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
