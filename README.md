@@ -1,5 +1,5 @@
   
-### <div align="center">I'm Freya, a full-time full-stack developer 👨‍💻 working in Javascript/React and Python/Django.</div>  
+### <div align="center">I'm Freya, a full-stack developer 👨‍💻 working in Javascript/React and Python/Django.</div>  
   
 
 When I’m not coding, I love visiting new cities in search of the world’s best breakfast.
