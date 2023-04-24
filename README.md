@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
-
 ### <div align="center">I'm Freya, a full-time full-stack developer 👨‍💻 working in Javascript/React and Python/Django.</div>  
   
 
@@ -26,12 +22,6 @@ Thanks for stopping by my Github. If you’d like to connect, please reach out v
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top">
-
-
-
 ### Skill Set  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -46,16 +36,6 @@ Thanks for stopping by my Github. If you’d like to connect, please reach out v
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
