@@ -4,15 +4,15 @@
 
 When I’m not coding, I love visiting new cities in search of the world’s best breakfast.
 
-I’m always striving to make my code cleaner, well-documented and approachable and accessible.
+I’m always striving to make my code well-documented and approachable and accessible.
 
 Thanks for stopping by my Github. If you’d like to connect, please reach out via LinkedIn (below).  
   
 
-- 🔭 I’m currently working on a group project for Nashville Software School called Rare Publishing Platform.  
+- 🔭 I just finished working on a my capstone for Nashville Software School called VoyageHer.  
   
 
-- 🌱 I’m currently learning Django  
+- 🌱 I’m currently learning React Native 
   
 
 - ⚡ Fun fact: I was a professional circus/sideshow performer and have eaten fire in more than six countries. 
@@ -24,7 +24,8 @@ Thanks for stopping by my Github. If you’d like to connect, please reach out v
 
 ### Skill Set  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+<a href="https://www.i18next.com/"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/8546082?s=200&v=4" alt="i18n" height="50"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
