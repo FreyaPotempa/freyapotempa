@@ -12,7 +12,7 @@ Thanks for stopping by my Github. If you’d like to connect, please reach out v
 - 🔭 I just finished working on a my capstone for Nashville Software School called VoyageHer.  
   
 
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning Node
   
 
 - ⚡ Fun fact: I was a professional circus/sideshow performer and have eaten fire in more than six countries. 
