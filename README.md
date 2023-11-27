@@ -9,7 +9,7 @@ I’m always striving to make my code well-documented and approachable and acces
 Thanks for stopping by my Github. If you’d like to connect, please reach out via LinkedIn (below).  
   
 
-- 🔭 I just finished working on a my capstone for Nashville Software School called VoyageHer.  
+- 🔭 I'm currently working with a multi-state client creating front end solutions to their complex database management.
   
 
 - 🌱 I’m currently learning React Native
